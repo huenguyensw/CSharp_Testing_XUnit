@@ -14,7 +14,7 @@ public class CalculatorTests
         int result = calculator.Add(15, 20);
 
         //Assert
-        Assert.Equal(result, 35);
+        Assert.Equal(35, result);
     }
 
     [Fact]
@@ -27,6 +27,6 @@ public class CalculatorTests
         int result = calculator.Subtract(20, 45);
 
         //Assert
-        Assert.Equal(result, -25);
+        Assert.Equal(-25, result);
     }
 }

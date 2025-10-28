@@ -103,3 +103,4 @@ D:\C#\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\net9.0\refint\HelloWorldApp.Te
 D:\C#\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\net9.0\HelloWorldApp.Tests.pdb
 D:\C#\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\net9.0\HelloWorldApp.Tests.genruntimeconfig.cache
 D:\C#\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\net9.0\ref\HelloWorldApp.Tests.dll
+D:\C#\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\net9.0\HelloWorldApp.Tests.sourcelink.json
